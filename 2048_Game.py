@@ -80,8 +80,6 @@ def rotategrid(grid):
 
 #update the grid according to the direction of move.
 def currentmove(grid,direction,points):
-    print(points)
-
 
     #global element for calculating the points.
 
